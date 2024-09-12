@@ -2,7 +2,7 @@ This repository contains the following ML projects:
 
 ## 1. [Water Potability Prediction](#water-potability-prediction)
 
-Documentation for the `water_potability.py` script. This project involves predicting the potability of water based on various features.
+The `water_potability.py` script. This project involves predicting the potability of water based on various features.
 
 - **Purpose**: Predict if water is safe for consumption.
 - **Usage**: Instructions on how to run the script.
@@ -10,7 +10,7 @@ Documentation for the `water_potability.py` script. This project involves predic
 
 ## 2. [Employee Turnover Prediction](#employee-turnover-prediction)
 
-Documentation for the `hr.py` script. This project involves predicting employee turnover rates.
+The `hr.py` script. This project involves predicting employee turnover rates.
 
 - **Purpose**: Predict the likelihood of employees leaving the company.
 - **Usage**: Instructions on how to run the script.
@@ -18,7 +18,7 @@ Documentation for the `hr.py` script. This project involves predicting employee 
 
 ## 3. [Sales Prediction Based on Ad Spend](#sales-prediction-based-on-ad-spend)
 
-Documentation for the `ads.py` script. This project involves predicting sales based on advertising spend.
+The `ads.py` script. This project involves predicting sales based on advertising spend.
 
 - **Purpose**: Forecast sales figures based on ad expenditures.
 - **Usage**: Instructions on how to run the script.
@@ -26,7 +26,7 @@ Documentation for the `ads.py` script. This project involves predicting sales ba
 
 ## 4. [Diabetes Prediction Model](#diabetes-prediction-model)
 
-Documentation for the `diabetes.py` script. This project involves predicting diabetes based on health metrics.
+The `diabetes.py` script. This project involves predicting diabetes based on health metrics.
 
 - **Purpose**: Predict the likelihood of diabetes.
 - **Usage**: Instructions on how to run the script.
