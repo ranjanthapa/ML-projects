@@ -223,6 +223,16 @@ After installing the necessary dependencies, run the project
 stremlit run ads.py
 ```
 
+To run the project in googl colab
+
+```python
+!pip install streamlit -q
+```
+
+```python
+!pip install streamlit -q
+```
+
 # Diabetes Prediction Model
 
 This project applies machine learning techniques to predict whether a patient has diabetes based on various health parameters. Two classification models, **Logistic Regression** and **Support Vector Machine (SVM)**, are trained and evaluated for their performance on the Pima Indians Diabetes Dataset.
@@ -291,3 +301,25 @@ Install the necessary dependencies and run the project
 ```python
 python diabetes.py
 ```
+
+To run the project in google colab
+
+## 1. Install the streamlit
+
+```python
+!pip install streamlit -q
+```
+
+## 2.Check your IP address by running
+
+```python
+!wget -q -O - ipv4.icanhazip.com
+```
+
+## 3. Run the Streamlit app in the background and start localtunnel
+
+```python
+!streamlit run ads.py & npx localtunnel --port 8501
+```
+
+It will provide the urls, click on "your url is" it will open the tunnel, enter the ip address generated in step 2 and submit then the app is ready use.
